@@ -3,10 +3,6 @@
 import re
 from pathlib import Path
 
-import sys
-sys.path.append('/usr/lib/python3/dist-packages')
-
-
 from setuptools import setup
 
 # Settings
